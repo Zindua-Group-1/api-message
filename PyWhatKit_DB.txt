@@ -1,0 +1,25 @@
+Date: 8/4/2024
+Time: 14:35
+Phone Number: +254 757243732
+Message: Abe
+--------------------
+Date: 8/4/2024
+Time: 14:38
+Phone Number: +254 757243732
+Message: Kamama
+--------------------
+Date: 8/4/2024
+Time: 14:40
+Phone Number: +254 733475115
+Message: Heloo my kalittle sister
+--------------------
+Date: 8/4/2024
+Time: 16:28
+Phone Number: +254 757243732
+Message: The weather of Nairobi is: RainDescription: moderate rain Temperature: 76.32 celcius Country: KE
+--------------------
+Date: 8/4/2024
+Time: 17:35
+Phone Number: +254 757243732
+Message: The weather of Tokyo is:CloudsDescription: broken clouds Temperature: 64.04 celcius Country: JP
+--------------------
